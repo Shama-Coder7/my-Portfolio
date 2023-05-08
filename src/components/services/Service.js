@@ -16,7 +16,8 @@ function Service() {
         <div className="box tilt">
           <i className="fas fa-bullhorn"></i>
           <h3>Teaching</h3>
-          <p>Teaches many students about coding, mathematics and science.</p>
+          <p>Teaches many students about coding<br/>
+          Worked as a Teaching Assistant At Coding Ninjas</p>
         </div>
 
         <div className="box tilt">
