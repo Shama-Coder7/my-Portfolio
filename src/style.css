@@ -487,6 +487,14 @@ header .navbar a:hover {
     display: block;
     font-size: 3rem;
   }
+  
+.home{
+  display: inline-block;
+  margin-top: 80px;
+}
+.home .content h3{
+  font-size: 35px;
+}
 }
 
 /* .home .tilt{
@@ -505,4 +513,8 @@ header .navbar a:hover {
   .contact .row form .inputBox input {
     width: 100%;
   }
+  
+.home{
+  display: inline-block;
+}
 }
