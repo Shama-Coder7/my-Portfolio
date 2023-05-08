@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <header>
-        <div id="menu-bars" className="fas fa-bars"></div>
+        {/* <div id="menu-bars" className="fas fa-bars"></div> */}
 
         <nav className="navbar">
           <a href="#home">Home</a>
