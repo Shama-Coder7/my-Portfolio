@@ -163,7 +163,7 @@ header .navbar a:hover {
 }
 
 .sidebar{
-  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/010/599/697/small/abstract-smooth-curve-line-on-pink-gradient-lighting-color-background-vector.jpg");
+  background-image: url("../src/components/images/sidebar-img.jpg");
 
 }
 .sidebar-nav {
