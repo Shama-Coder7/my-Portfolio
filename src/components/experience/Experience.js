@@ -76,9 +76,9 @@ function Experience() {
             <h4>
               Coding Ninjas, <span>Banglore</span>
             </h4>
-            <span>Jan 2023 to Apr 2023</span>
+            <span>Jan 2023 to June 2023</span>
             <p>
-              <span>• Solved over 460+ doubts</span>
+              <span>• Solved over 900+ doubts</span>
               <br />
               <span>• Fixes Bugs , Contribute on various projects</span>
               <br />
