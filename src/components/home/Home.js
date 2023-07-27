@@ -8,7 +8,7 @@ function Home() {
     <div>
       <section className="home" id="home">
         <div className="content">
-          <img className="tilt" src={me} alt="" />
+          <img className="tilt" src="https://w7.pngwing.com/pngs/875/236/png-transparent-computer-programming-technology-code-org-project-coder-game-electronics-computer-programming.png" alt="" />
           <div className='home-text'>
           <h3>
             Shama Parveen
